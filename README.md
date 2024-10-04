@@ -1,4 +1,4 @@
-github-download
+adasdagagithub-download
 ===============
 
 `github-download` downloads commit comments and select issues metadata, saving the raw JSON and writing summary `.csv` files.
